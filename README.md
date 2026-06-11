@@ -1,2 +1,2 @@
-# AutoRetail
-AutoRetail System
+# Multi Modality RAG
+
